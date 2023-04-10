@@ -1,5 +1,5 @@
 # HotFreeze
-![alt text](https://github.com/xXxpapusasxXx/HotFreeze]/blob/image.ppg)
+![alt text](https://imgur.com/y1Yb2W5)
 
 Are you tired of Deep Freeze preventing you from modifying your system as you wish? Do you want to install or uninstall programs without having to thaw your hard drive every time? Would you like to have complete control of your PC without losing security and performance? Then you need this program. It is a tool that allows you to disable the Deep Freeze program quickly and easily.
 
